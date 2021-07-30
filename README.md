@@ -1,6 +1,7 @@
 # Data Science
 
 CSPB 3022 - Introduction to Data Science with Probability and Statistics
+
 Fall 2020
 
 DISCLAIMER: Do NOT use work in any dishonest way. This repository was created to track my software development progression. 
